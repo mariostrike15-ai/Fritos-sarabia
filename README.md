@@ -12,7 +12,7 @@ Este proyecto muestra nuestro menú, promociones y contacto para pedidos por Wha
 ## 🌐 Sitio en línea
 
 Puedes visitar el sitio aquí:  
-👉 [https://mariostrike15-ai.github.io/Fritos-sarab/](https://mariostrike15-ai.github.io/Fritos-sarab/)
+👉 [https://mariostrike15-ai.github.io/Fritos-sarab/](https://mariostrike15-ai.github.io/Fritos-sarabia/)
 
 ## 📱 Contacto
 
